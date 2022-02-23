@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.plaunezkiy.reminderplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.plaunezkiy.reminderplugin.MyBundle
 
 class MyApplicationService {
 
